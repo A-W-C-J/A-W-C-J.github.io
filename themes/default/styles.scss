@@ -68,12 +68,11 @@ a:hover {
 }
 .navbar {
   &.navbar-default {
-    background: #00000000;
+    background: transparent;
     border: 1px solid transparent;
     height: 52px;
   }
 }
-
   .nav {
       & > li {
         &:hover {
