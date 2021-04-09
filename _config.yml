@@ -14,7 +14,7 @@ app:
   icon: images/icon.png # Leave blank to auto-magically populate
   
 
-  #favicon: # uncomment if uploading own favicon
+  favicon: favicon.ico # uncomment if uploading own favicon
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
