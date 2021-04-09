@@ -11,7 +11,6 @@ html,
 body {
   min-height: 100%;
 }
-
 body {
   {% if site.background_color %}
   background-color: {{ site.background_color }};
@@ -67,6 +66,27 @@ a:hover {
 .footer {
   padding-bottom: 50px;
 }
+.navbar {
+  &.navbar-default {
+    background: #00000000;
+    border: 1px solid transparent;
+    height: 52px;
+  }
+}
+
+  .nav {
+      & > li {
+        &:hover {
+          color: aqua;
+          background-color: #80000000;
+        }
+        &:active {
+          color: aqua;
+          background-color: #80000000;
+        
+      }
+    }
+  }
 
 //
 // Marketing
