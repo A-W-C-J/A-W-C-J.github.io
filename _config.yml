@@ -12,9 +12,7 @@ app:
   android_id: com.wenen.sudokupro # Optional - Enter Android app id like: com.example.app
 
   icon: images/icon.png # Leave blank to auto-magically populate
-  # To update use path relative to project root with no leading slash:
-  # e.g. images/app-icon-512.png
-  # 512px or greater, square
+  
 
   #favicon: # uncomment if uploading own favicon
   # To update use path relative to project root with no leading slash:
