@@ -77,16 +77,24 @@ a:hover {
       & > li {
         &:hover {
           color: aqua;
-          background-color: #80000000;
+          background-color: #258C26;
         }
         &:active {
           color: aqua;
-          background-color: #80000000;
+          background-color: #258C26;
         
       }
     }
   }
-
+  .download-btn{
+  background-color: #258C26
+  }
+   .btn{
+  background-color: #258C26
+  }
+.btn-lg{
+  background-color: #258C26
+}
 //
 // Marketing
 //

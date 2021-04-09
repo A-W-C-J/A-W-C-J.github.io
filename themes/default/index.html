@@ -7,7 +7,13 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-              <img src="../../images/logo.png">
+        
+          <a href="https://play.google.com/store/apps/dev?id=7544462411468692462">
+            <img src="../../images/logo.png">
+          </a>
+          
+        
+              
     </div>
     <div class="collapse navbar-collapse" id="example-navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
@@ -42,10 +48,9 @@
 
           <p class="marketing-desc">{{ site.marketing_desc }}</p>
           <div class="download-buttons">
-          
             {% if site.app.android_id %}
             <a
-              class="download-btn btn btn-lg"
+              class="btn-lg btn-success"
               href="https://play.google.com/store/apps/details?id={{ site.app.android_id }}">
               <i class="fa fa-android fa-lg" aria-hidden="true"></i> Google Play
             </a>
