@@ -59,18 +59,17 @@ a:hover {
 .main {
   position: relative;
   min-height: 100%;
-  padding-top: 70px;
+  padding-top: 120px;
   padding-bottom: 60px;
 }
 
 .footer {
   padding-bottom: 50px;
 }
-.navbar {
-  &.navbar-default {
+.navbar-dark{
+  &.bg-dark {
     background: transparent;
     border: 1px solid transparent;
-    height: 52px;
   }
 }
   .nav {
