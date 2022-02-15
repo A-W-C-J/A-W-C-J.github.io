@@ -9,7 +9,7 @@
 
 ## 自我描述
 
-我是一名热爱**折腾**的安卓开发者，喜欢探索未知的事物,在探索中改进不足,提升自己.同时,我也不是一个局限于固有舒适区的人,喜欢挑战尝试各种不同的技术,培养并锻炼自己多面手的能力,对于这方面,我的个人项目 **[Photo Recovery App](https://play.google.com/store/apps/details?id=com.wenen.photorecovery&hl=en_US&gl=US)** ,在 Google Play 上获得了10M+的下载;当然,作为一名 Android 程序员，我也很注意 Java 虚拟机以及设计模式的知识的积累,一直在阅读学习 **揭秘 Java 虚拟机** 与 **设计模式之禅** 等书籍.
+我是一名热爱**折腾**的安卓开发者，喜欢探索未知的事物,在探索中改进不足,提升自己.同时,我也不是一个局限于固有舒适区的人,喜欢挑战尝试各种不同的技术,培养并锻炼自己多面手的能力,对于这方面,我的个人项目 **[Photo Recovery App](https://play.google.com/store/apps/details?id=com.wenen.photorecovery&hl=en_US&gl=US)** ,在 Google Play 上获得了1000万+的下载;当然,作为一名 Android 程序员，我也很注意 Java 虚拟机以及设计模式的知识的积累,一直在阅读学习 **揭秘 Java 虚拟机** 与 **设计模式之禅** 等书籍.
 
 
 ## 工作经验
@@ -20,7 +20,7 @@
 
 独立开发,主要在 Google Play 平台做工具类App出海：
 
-* [Photo Recovery App](https://play.google.com/store/apps/details?id=com.wenen.photorecovery&hl=en_US&gl=US) 在两年的时间内获得了10M+的下载,并在 2021/09/27 被 [Brain Vault](https://play.google.com/store/apps/developer?id=Brain+Vault) 收购
+* [Photo Recovery App](https://play.google.com/store/apps/details?id=com.wenen.photorecovery&hl=en_US&gl=US) 在两年的时间内获得了1000万+的下载,并在 2021/09/27 被 [Brain Vault](https://play.google.com/store/apps/developer?id=Brain+Vault) 收购
 
 
 ### **Android 开发工程师** 熠星科技有限公司
